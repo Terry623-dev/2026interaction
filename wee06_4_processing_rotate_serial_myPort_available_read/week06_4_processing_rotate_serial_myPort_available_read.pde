@@ -1,4 +1,4 @@
-// wee06_4_processing_rotate_serial_myPort_available_read
+// week06_4_processing_rotate_serial_myPort_available_read
 // 修改自 week06_3_processing_rotate_translate_rotate_rect
 // 上面還要再補 1-3 行
 import processing.serial.*;
